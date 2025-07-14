@@ -1,5 +1,5 @@
 
-# 📰 Fake News Detection using Machine Learning
+# 📰 Fake News Classifier using Machine Learning
 
 ## 📌 Overview
 This project focuses on detecting whether a news article is **real** or **fake** using Natural Language Processing (NLP) and machine learning classification techniques.
