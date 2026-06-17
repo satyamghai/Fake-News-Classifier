@@ -63,6 +63,7 @@ streamlit run app.py
 
 ## 📂 Project Structure
 
+```text
 Fake-News-Classifier
 │
 ├── app.py
@@ -70,6 +71,9 @@ Fake-News-Classifier
 ├── requirements.txt
 ├── FakeNewsClassifier code.ipynb
 └── data/
+    ├── Fake.csv
+    └── True.csv
+```
 
 ## 👨‍💻 Author
 
